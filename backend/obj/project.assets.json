@@ -2822,11 +2822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\MAXIPOD estagio\\backend\\ExpenseControl.Api.csproj",
+      "projectUniqueName": "C:\\projetos\\Desafio técnico\\backend\\ExpenseControl.Api.csproj",
       "projectName": "ExpenseControl.Api",
-      "projectPath": "C:\\projetos\\MAXIPOD estagio\\backend\\ExpenseControl.Api.csproj",
+      "projectPath": "C:\\projetos\\Desafio técnico\\backend\\ExpenseControl.Api.csproj",
       "packagesPath": "C:\\Users\\d7a8v\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\MAXIPOD estagio\\backend\\obj\\",
+      "outputPath": "C:\\projetos\\Desafio técnico\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\d7a8v\\AppData\\Roaming\\NuGet\\NuGet.Config"
